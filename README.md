@@ -1,7 +1,7 @@
 <h1>ROT18-Encoder</h1>
 This project is a simple web application built using Flask that provides an interface to encrypt and decrypt text using the ROT18 cipher. ROT18 combines ROT13 for letters and ROT5 for digits, shifting letters by 13 places and digits by 5 places.
 
-<h2>Key Features</h2>
+<h2>Features</h2>
 
 - **Encrypt/Decrypt Text:** Users can input text and get it encrypted/decrypted using ROT18.
 
